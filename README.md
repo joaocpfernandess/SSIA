@@ -6,7 +6,7 @@ Project title: Augmented Reality filters: facial feature tracking and augmentati
 There should be 10 .m files in total in this repo.
 The two main ones are:
 
-features_video.m -> The file that returns the video with all the correspondent features tracked
+features_video.m -> The file that returns the video with all the correspondent features tracked \\
 apply_filter.m -> The file that returns the video with the selected filter applied to it
 
 All instructions for input and output are specified in each file, as well as properly commented code in order to understand each step of the program.
