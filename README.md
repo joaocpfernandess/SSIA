@@ -13,7 +13,7 @@ All instructions for input and output are specified in each file, as well as pro
 
 As for the remaining files, they are used throughtout the two main files as auxiliary functions, in order to mantain the scripts readable, and need not to be run individually. These files are:
 
-face_finder.m -> Script that detects a face in a frame
-feature_finder.m -> Script that detects other facial features within a face
-eyes_aux.m -> Auxiliary function to calculate additional measures for the eyes
+face_finder.m -> Script that detects a face in a frame \
+feature_finder.m -> Script that detects other facial features within a face \
+eyes_aux.m -> Auxiliary function to calculate additional measures for the eyes \
 XXXXX_filter.m -> Applying the 'XXXXX' filter to each frame. There are 5 files of this kind ('dog', 'crazyeyes', 'crown', 'bigeyes', 'swapeyes')
